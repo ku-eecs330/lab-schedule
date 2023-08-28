@@ -147,7 +147,7 @@ There are some other useful tricks when navigating on a command line:
 ```sh
 git --version
 ```
-* Share your git username with your TA. You will be invited to an git organization of EECS 330. In which you will create a repository with your name as LastName-kuid (lower case) (for example: mallojula-12345678). Your repo must be private (only you and TAs will be able to see it). Once your repo is create, add your TA as collaborator to your repo (`Settings`->`Colaborators and teams`->`Add people`). Your TA's guthub username can be found at [frontpage](https://github.com/ku-eecs330/lab-schedule).
+* Share your git username with your TA. You will be invited to an git organization of EECS 330. In which you will create a repository with your name as LastName-kuid (lower case) (for example: mallojula-12345678). Your repo must be private (only you and TAs will be able to see it). Once your repo is created as ![repo create](pic/git_create.PNG) add your TA as collaborator to your repo (`Settings`->`Colaborators and teams`->`Add people`). Your TA's guthub username can be found at [frontpage](https://github.com/ku-eecs330/lab-schedule).
 
 * Prepare for local-remote git communication through SSH. You need to generate a new SSH key on linux machine and add it to your git account: [Tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux). Finish the 1st and 2nd step shoud be good for most cases.
 
