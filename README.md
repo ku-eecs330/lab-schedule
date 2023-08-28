@@ -9,9 +9,9 @@ This is the github repository for publishing lab materials and assignments
 ## Your TA Assignemnt
 Your TA is assigned based on your lab sessions. You can find your TA at [canvas](https://canvas.ku.edu/courses/104600/groups) `People` -> `Groups`. Contacts of TAs are as follows:
 
-- Mallojula, Prashanthi (<mailto:prashanthi.mallojula@ku.edu>)
-- Idupulapati, Apurva (<mailto:apurvaidupulapati@ku.edu>)
-- Vaidya, Ruturaj Kiran (<mailto:ruturajkvaidya@ku.edu>)
+- Mallojula, Prashanthi (Email: <prashanthi.mallojula@ku.edu>, Github: [Prashanthimallojula](https://github.com/Prashanthimallojula))
+- Idupulapati, Apurva (Email: <apurvaidupulapati@ku.edu>, Github: [Apurva-I](https://github.com/Apurva-I))
+- Vaidya, Ruturaj Kiran (Email: <ruturajkvaidya@ku.edu>, Github: [Ruturaj4](https://github.com/Ruturaj4))
 
 ## Due Dates
 Due dates of each lab assignment will be clearly indicated at the beginning of each lab document. Basically, you will have **3 days** after your lab date to finish all the submission. For example: if your lab is every Monday, you will have Tuesday - Thursday to finish your assignment. The due time will be 11:59pm CDT on every Thursday.
