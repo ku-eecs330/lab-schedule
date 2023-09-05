@@ -55,7 +55,7 @@ Quick setup: https://www.jetbrains.com/pycharm/guide/tutorials/getting-started-p
 
 - right-click on the project folder in the Project tool window and choose "New" > "Python File."
 
-<img src="pic/Pic2.png" alt="repo create" width="600"/>
+<img src="pic/pic2.png" alt="repo create" width="600"/>
 
 
 **2.2. Coding**
@@ -86,7 +86,7 @@ In the code editor, you can start writing your Python code. You can add function
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- While debugging, you can inspect the values of variables by hovering over them in the code editor or checking the Variables panel in the Debugging panel.
 
-<img src="pic/Pic4.png" alt="repo create" width="600"/>
+<img src="pic/pic4.png" alt="repo create" width="600"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**e. Fix Issues:**
 
@@ -102,7 +102,7 @@ In the code editor, you can start writing your Python code. You can add function
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- When you run your Python script, the output will appear in the "Run" or "Debug" tool window at the bottom of the PyCharm window.
  
-<img src="pic/Pic5.png" alt="repo create" width="600"/>
+<img src="pic/pic5.png" alt="repo create" width="600"/>
 
 
 ### B. Implementation of linked list methods
@@ -170,7 +170,7 @@ if __name__ == '__main__':
     print("Two lists are not equal, tests failed")
 ```
 
-You can see that you will need an `SLList.equals` method to evaluate if two lists are the same. Please write the function to compare two `SSList` objects in terms of their values.
+You can see that you will need an `SLList.equals` method to evaluate if two lists are the same. Please write the function to compare two `SLList` objects in terms of their values.
 ```python
 def equals(self, anotherList):
 ```
