@@ -5,7 +5,9 @@ This is the github repository for publishing lab materials and assignments
 | ----- | ----- | ------------------- | --- |
 | 8/21~8/25 | 1 | Python environment setup (takehome, no grade) | link |
 | 8/28~9/1 | 2 | Introduction to Linux, github | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-2/Lab-2_fall23.md) |
-| 9/5~9/8 | 2 | IDE, Debugging, SLList | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-3/Lab-3_fall23.md) |
+| 9/5~9/8 | 3 | IDE, Debugging, Testing, SLList | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-3/Lab-3_fall23.md) |
+| 9/11~9/22 | 4 | Project 1: Deque (2 weeks) | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-4/Lab-4_fall23.md) |
+
 
 ## Your TA Assignemnt
 Your TA is assigned based on your lab sessions. You can find your TA at [canvas](https://canvas.ku.edu/courses/104600/groups) `People` -> `Groups`. Contacts of TAs are as follows:
