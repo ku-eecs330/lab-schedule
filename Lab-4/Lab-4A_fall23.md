@@ -1,6 +1,6 @@
 
-# EECS 330 Lab-4/Project-1 (2-Week Lab)
-
+# EECS 330 Lab-4 (Part A)/Project-1
+#### This is a 2-week lab including part A and part B.
 
 ## Goal: _Implementation of deque using Doubly-Linked-List_
 
@@ -149,7 +149,7 @@ class Deque:
     # Initialize size of the deque.
     self.size = 0
     # Use a zero intialized NumPy array to store elements.
-    self.array = np.zeros(self.capacity, dtype=int)
+    self.array = np.zeros(self.capacity, dtype=object)
 ```
 
 **C.1 Implement deque functions.**
