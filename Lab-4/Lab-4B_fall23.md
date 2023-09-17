@@ -123,10 +123,10 @@ print(OffByOne(char1, char2)) #print True
 
 Create a function OffByN() which accepts three parameters and check those two characters differ by N.
 
-For e.g.
+For example:
 
 ```Python
-Let N = 3,
+N = 3 # set offset of N
 OffByN(“a” , “d”) is True
 OffByN(“h” , “e”) is True
 OffByN(“a” , “a”) is False
@@ -152,8 +152,7 @@ print(OffByN(char1, char2, N)) #Prints True
 ```
 
 **Testing and Grading:** You should submit your code via a GitHub repository created for EECS 330.
-For this lab, create a folder named "Lab-5" and push all your `.py` files into that folder on the GitHub
+For this lab, push all your `.py` files into `Lab-4` folder on the GitHub
 repository to complete your lab work. 
 
-**Submission and Deadline:** Please submit through GitHub and grades will be posted based on 
-completed work without any issues.
+**Submission and Deadline:** Please submit through GitHub and grades will be posted based on completed work without any issues.
