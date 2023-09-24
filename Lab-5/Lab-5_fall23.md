@@ -135,7 +135,7 @@ def findBlockcount(self, blockid):
 ```
 
 ### C. Testing your code for disjoint sets
-Below is the testing logic fpr your code
+Below is the testing logic for your code
 ```Python
 if __name__ == '__main__':
   # Tasks A
