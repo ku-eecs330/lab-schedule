@@ -161,7 +161,7 @@ if __name__ == '__main__':
   uf.findBlockCount(1)
 ```
 **Testing and Grading:** You should submit your code via a GitHub repository created for EECS 330.
-For this lab, create a folder named "Lab-6" and push all your `.py` files into that folder on the GitHub
+For this lab, create a folder named "Lab-5" and push all your `.py` files into that folder on the GitHub
 repository to complete your lab work. 
 
 **Submission and Deadline:** Please submit through GitHub and grades will be posted based on completed work without any issues.
