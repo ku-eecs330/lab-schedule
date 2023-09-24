@@ -158,11 +158,10 @@ if __name__ == '__main__':
   Connected = [[1,1,0,1], [1,1,0,0], [0,0,1,1], [1,0,1,1]]
   uf = DisjointSet(4)
   uf.joinBlocks(Connected)
-  uf. findBlockCount(1)
+  uf.findBlockCount(1)
 ```
 **Testing and Grading:** You should submit your code via a GitHub repository created for EECS 330.
 For this lab, create a folder named "Lab-6" and push all your `.py` files into that folder on the GitHub
 repository to complete your lab work. 
 
-**Submission and Deadline:** Please submit through GitHub and grades will be posted based on 
-completed work without any issues.
+**Submission and Deadline:** Please submit through GitHub and grades will be posted based on completed work without any issues.
