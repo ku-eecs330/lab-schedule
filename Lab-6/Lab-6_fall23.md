@@ -13,18 +13,20 @@
 - Friday 10/06/2023
   - Due on Monday 10/09/2023 11:59 pm
 
-### A. Design "BST".
+### Binary Search Tree - BST
 
-You have been given a skeleton of a *BST*. Binary search tree is a binary tree (each nodes have two children at the most) which follows an important property - given any node N1 in the tree, all nodes on the left of N1 must have values less than or equal to the node N1's value and all nodes on the right of N1 must have values greater than or equal to the node N1's value.
+BST is a binary tree (each nodes have two children at the most) which follows an important property - given any node N1 in the tree, all nodes on the left of N1 must have values less than or equal to the node N1's value and all nodes on the right of N1 must have values greater than or equal to the node N1's value.
 
+<!--
 **Complexity Analsysis:**
 1. Search. `O(N)`.
 2. insertion. `O(N)`.
 3. Deletion. `O(N)`
 4. Space. `O(N)`
 5. However, balanced BSTs show `O(logN)` complexity in terms of search, insertion and deletion, which is much preferable than the unbalanced tree.
+-->
 
-### B. Implementation of BST.
+### A. Implementation of BST.
 
 Following skeleton implements constructors for "TreeNode" and "BinarySearchTree".
 Notice that we have left and right pointers signifying implementation of
@@ -44,7 +46,7 @@ class BinarySearchTree:
     self.size = 0
 ```
 
-**B.1 Insert a node with value in BST**
+**A.1 Insert a node with value in BST**
 
 ```Python
 def insert(self, key)::
@@ -52,7 +54,7 @@ def insert(self, key)::
   pass
 ```
 
-**B.2 Search a value in BST and return TreeNode**
+**A.2 Search a value in BST and return TreeNode**
 
 Note that you have to return the first node using preorder traversal if multiple values are present.
 
@@ -62,7 +64,7 @@ def search(self, key) -> TreeNode:
   pass
 ```
 
-**B.3 Implement Preorder Traversal**
+**A.3 Implement Preorder Traversal**
 
 Start at the root node, first visit the current node, and then traverse its left and right subtrees.
 The operations should be in the following order: `Current Root -> Left Subtree -> Right Subtree`.
@@ -72,7 +74,7 @@ def preorder_traversal(self) -> list:
   """Implement preorder traversal."""
   pass
 ```
-**B.4 Implement Inorder Traversal**
+**A.4 Implement Inorder Traversal**
 
 Start at the root node (current), traverse its left subtree, visit the current node, and then traverse its right subtree.
 The operations should be in the following order: `Left Subtree -> Current Root -> Right Subtree`.
@@ -83,7 +85,7 @@ def inorder_traversal(self) -> list:
   pass
 ```
 
-**B.5 Implement Postorder Traversal**
+**A.5 Implement Postorder Traversal**
 
 Start at the root node (current node), first traverse its left subtree, and then traverse its right subtree, and finally visit the current node.
 The operations should be in the following order: `Left Subtree -> Right Subtree -> Current Root`.
@@ -94,7 +96,7 @@ def postorder_traversal(self) -> list:
   pass
 ```
 
-### C. Implementation of level-order Traversal.
+### B. Implementation of level-order Traversal.
 
 You can traverse the tree level by level in a bredth first search fashion. Start at the root node and visit nodes level by level, from left to right including all the nodes in that level.
 The order of operations is: `Level1 -> Level2 -> Level3 -> ... -> LevelN`.
@@ -104,7 +106,7 @@ def level_order_traversal(self) -> list:
   pass
 ```
 
-### D. Implement TreeMap (SortedMap) using BST.
+### C. Implement TreeMap (SortedMap) using BST.
 
 A `TreeMap` (or a `SortedMap`) using `BST` is a common data structure that leverages Binary Search Trees (`BSTs`) to implement a map interface where the keys are sorted according to the `BST` implementation. `TreeMap` contains `key` and `value` as member variables and the Tree is organized according to the "`key`". Following is the skeleton.
 
@@ -124,7 +126,7 @@ class TreeMap:
 For the above example `TreeMap` you need to implement `put` and `get` methods to add and aquire the value of a key respectively.
 
 
-Testing logic:
+### Testing logic.
 
 ```Python
 # Initialize BST.
@@ -202,8 +204,6 @@ assert tree_map.get(5) is None
 ```
 
 **Testing and Grading:** You should submit your code via a GitHub repository created for EECS 330.
-For this lab, create a folder named "Lab-6" and push all your `.py` files into that folder on the GitHub
-repository to complete your lab work. 
+For this lab, create a folder named "Lab-6" and push all your `.py` files into that folder on the GitHub repository to complete your lab work. 
 
-**Submission and Deadline:** Please submit through GitHub and grades will be posted based on 
-completed work without any issues.
+**Submission and Deadline:** Please submit through GitHub and grades will be posted based on completed work without any issues.
