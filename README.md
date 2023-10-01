@@ -3,12 +3,13 @@ This is the github repository for publishing lab materials and assignments
 
 | Time  |  Labs |      Description    | Links |
 | ----- | ----- | ------------------- | --- |
-| 8/21~8/25 | 1 | Python environment setup (takehome, no grade) | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-1/Lab-1_fall23.ipynb) |
-| 8/28~9/1 | 2 | Introduction to Linux, github | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-2/Lab-2_fall23.md) |
+| 8/21~8/25 | 1 | Python Environment Setup (takehome, no grade) | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-1/Lab-1_fall23.ipynb) |
+| 8/28~9/1 | 2 | Introduction to Linux, Github | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-2/Lab-2_fall23.md) |
 | 9/5~9/8 | 3 | IDE, Debugging, Testing, SLList | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-3/Lab-3_fall23.md) |
 | 9/11~9/22 | 4 | Project 1 (Part A): Deque | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-4/Lab-4A_fall23.md) |
 |  | 4 | Project 1 (Part B): Deque | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-4/Lab-4B_fall23.md) |
 | 9/25~9/29 | 5 | Disjoint Set | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-5/Lab-5_fall23.md) |
+| 10/2~10/6 | 6 | Binary Search Tree | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-6/Lab-6_fall23.md) |
 
 
 ## Your TA Assignemnt
