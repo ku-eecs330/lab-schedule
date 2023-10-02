@@ -183,7 +183,7 @@ bst.insert(1)
 bst.insert(6)
 
 # Test level order traversal.
-assert bst.level_order_traversal() == [5, 3, 8, 2, 4, 7, 9, 1, 5, 7, 6, 1, 6]
+assert bst.level_order_traversal() == [5, 3, 8, 2, 4, 7, 9, 1, 5, 7, 1, 6, 6]
 
 # TreeMap.
 
