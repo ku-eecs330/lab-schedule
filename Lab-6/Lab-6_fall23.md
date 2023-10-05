@@ -65,6 +65,7 @@ def search(self, key) -> TreeNode:
   pass
 ```
 
+<!--
 **A.3 Implement Preorder Traversal**
 
 Start at the root node, first visit the current node, and then traverse its left and right subtrees.
@@ -96,7 +97,7 @@ def postorder_traversal(self) -> list:
   """Implement postorder traversal."""
   pass
 ```
-
+--->
 ### B. Implementation of level-order Traversal.
 
 You can traverse the tree level by level in a bredth first search fashion. Start at the root node and visit nodes level by level, from left to right including all the nodes in that level.
@@ -144,26 +145,14 @@ bst.insert(9)
 
 # Test size method.
 assert bst.size() == 7
-
-# Test inorder traversal.
-assert bst.inorder_traversal() == [2, 3, 4, 5, 7, 8, 9]
-
-# Test preorder traversal.
-assert bst.preorder_traversal() == [5, 3, 2, 4, 8, 7, 9]
-
-# Test postorder traversal.
-assert bst.postorder_traversal() == [2, 4, 3, 7, 9, 8, 5]
+assert bst.search(1) == None
 
 # Test inserting additional nodes.
 bst.insert(1)
 bst.insert(6)
 
 assert bst.size() == 9
-
-# Test traversals after inserting additional nodes.
-assert bst.inorder_traversal() == [1, 2, 3, 4, 5, 6, 7, 8, 9]
-assert bst.preorder_traversal() == [5, 3, 2, 1, 4, 8, 7, 6, 9]
-assert bst.postorder_traversal() == [1, 2, 4, 3, 6, 7, 9, 8, 5]
+assert bst.search(1).key == 1
 
 # Finally, also test by inserting duplicate values.
 
@@ -203,6 +192,22 @@ assert tree_map.get(4) == "D"
 # Non-existent key should return None.
 assert tree_map.get(5) is None
 ```
+
+<!-- additional testing code
+# Test inorder traversal.
+assert bst.inorder_traversal() == [2, 3, 4, 5, 7, 8, 9]
+
+# Test preorder traversal.
+assert bst.preorder_traversal() == [5, 3, 2, 4, 8, 7, 9]
+
+# Test postorder traversal.
+assert bst.postorder_traversal() == [2, 4, 3, 7, 9, 8, 5]
+
+# Test traversals after inserting additional nodes.
+assert bst.inorder_traversal() == [1, 2, 3, 4, 5, 6, 7, 8, 9]
+assert bst.preorder_traversal() == [5, 3, 2, 1, 4, 8, 7, 6, 9]
+assert bst.postorder_traversal() == [1, 2, 4, 3, 6, 7, 9, 8, 5]
+--->
 
 **Testing and Grading:** You should submit your code via a GitHub repository created for EECS 330.
 For this lab, create a folder named "Lab-6" and push all your `.py` files into that folder on the GitHub repository to complete your lab work. 
