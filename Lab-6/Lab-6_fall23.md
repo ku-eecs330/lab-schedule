@@ -53,6 +53,7 @@ def insert(self, key)::
   """Implement your insertion algo."""
   pass
 ```
+**Please pay attention:** this BST will allow duplicate values (otherwise you won't be able to handle the testing cases). When you reach the nodes having the same value as your insertion, make it to the right child.
 
 **A.2 Search a value in BST and return TreeNode**
 
