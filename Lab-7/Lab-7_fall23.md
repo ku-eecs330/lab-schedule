@@ -22,13 +22,12 @@ Each location/bucket can be used to store multiple data objects organized using 
 
 ### A. Implementation of HashMap.
 
-Following skeleton implements constructors for `HashMap`. Note thhat each value is inserted as a set of (key, value) in the hash bucket calculated based on key.
+Following skeleton implements constructors for `HashMap`. Note that each value is inserted as a set of (key, value) in the hash bucket calculated based on key.
 
 ```Python
 class HashMap:
     def __init__(self, size):
         self.size = size
-        self.value = value
         self.hash_table = [[] for _ in range(size)]
 
     def _hash_function(self, key):
