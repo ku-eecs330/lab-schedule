@@ -11,7 +11,7 @@ This is the github repository for publishing lab materials and assignments
 | 9/25~9/29 | 5 | Disjoint Set | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-5/Lab-5_fall23.md) |
 | 10/2~10/6 | 6 | Binary Search Tree | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-6/Lab-6_fall23.md) |
 | 10/23~10/27 | 7 | Hash Map | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-7/Lab-7_fall23.md) |
-
+| 10/30~11/3 | 8 | Tree & Graph Traversal | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-8/Lab-8_fall23.md) |
 
 ## Your TA Assignemnt
 Your TA is assigned based on your lab sessions. You can find your TA at [canvas](https://canvas.ku.edu/courses/104600/groups) `People` -> `Groups`. Contacts of TAs are as follows:
