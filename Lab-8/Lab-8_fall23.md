@@ -123,7 +123,7 @@ def bfs(self, source):
 
 ```Python
 
-# Create a graph with 5 vertices
+# Create a graph with 20 vertices
 graph = Graph(20)
 
 # Add edges (change as needed)
