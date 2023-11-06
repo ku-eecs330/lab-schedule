@@ -58,7 +58,7 @@ datastructure is typically used to implement Prim's algorithm. Complexity of `O(
 efficient implementation. Where, E is number of edges and V is number of vertices.
 
 ```Python
-class Graph:`
+class Graph:
     def __init__(self, vertices):
         self.V = vertices
         self.graph = [[0 for _ in range(vertices)] for _ in range(vertices)]
