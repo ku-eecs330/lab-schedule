@@ -11,7 +11,7 @@
 - Wednesday 11/08/2023
   - Due on Saturday 11/11/2023 11:59 pm
 - Friday 11/10/2023
-  - Due on Monday 10/13/2023 11:59 pm
+  - Due on Monday 11/13/2023 11:59 pm
 
 In this lab, we are going to learn some advanced graph algorithms.
 
