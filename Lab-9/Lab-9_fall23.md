@@ -13,13 +13,12 @@
 - Friday 11/10/2023
   - Due on Monday 11/13/2023 11:59 pm
 
-In this lab, we are going to learn some advanced graph algorithms.
+In this lab, we are going to implement advanced graph algorithms.
 
 ### A. Implement Dijkstra's Shortest Path Tree Algorithm.
 
-Dijkstra's algorithm is one of the important graph algorithms. It is used to find the shortest path from the root node
-to other nodes in weighted or directed graph. Priority queue or heap is a data structure, that is primarily used to design
-such algorithm.
+Dijkstra's algorithm is one of the important graph algorithms. It is used to find the shortest path from the source node
+to other nodes in weighted or directed graph. Priority queue or heap is the data structure that is used to enable such algorithm. In this lab, you can use your own way to implement the minimum distance searching function, such as scaning, sorting, or heap.
 
 ```Python
 class Graph:
@@ -53,8 +52,8 @@ class Graph:
 
 Prim's algorithm another graph algorithm, that is used to find [Minimum Spanning Tree](https://algs4.cs.princeton.edu/43mst/)
 of connected and unidirectional graph. Minimum Spanning Tree is a subgraph or subset of connected or unidirectional graph
-that connects all the vertices together, with no cycles, and while the total edge weight minimal. Priority queue or min-heap
-datastructure is typically used to implement Prim's algorithm. Complexity of `O(E + V log V)` can be achieved using an
+that connects all the vertices together, with no cycles, and while the total edge weight minimal. Priority queue or heap
+data structure is typically used to implement Prim's algorithm. Complexity of `O(E + V log V)` can be achieved using an
 efficient implementation. Where, E is number of edges and V is number of vertices.
 
 ```Python
@@ -125,8 +124,7 @@ graph.add_edge(5, 3, 14)
 
 Kruskal's Minimum Spanning Tree is another way to find [Minimum Spanning Tree](https://algs4.cs.princeton.edu/43mst/)
 of connected and unidirectional graph. Kruskal's algorithm uses greedy approach unlike Prim's algorithm, that uses incremental
-approach. Disjoint set datastructure (that you have previously learned) is used to implement Kruskal's algorithm. Complexity
-of `O(E log E)` can be achieved using an efficient implementation.
+approach. Disjoint set data structure (that you have previously learned) is used to implement Kruskal's algorithm to detect existence of circle in MST. Complexity of `O(E log E)` can be achieved using an efficient implementation.
 
 ```Python
 class Graph:
