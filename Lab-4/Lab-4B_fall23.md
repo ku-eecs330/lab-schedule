@@ -92,7 +92,7 @@ print(isPalindrome(test_input1)) # prints False
 
 ### B. OffByOne
 
-Create a function OffByOne() which accepts two parameters and check whether those two characters differ by one or not.
+Create a function OffByOne() which accepts two parameters and check whether those two characters differ by one or not. Attention: you need to use the deque to implement this function. 
 
 For e.g.
 
@@ -121,7 +121,7 @@ print(OffByOne(char1, char2)) #print True
 
 ### C. OffByN
 
-Create a function OffByN() which accepts three parameters and check those two characters differ by N.
+Create a function OffByN() which accepts three parameters and check those two characters differ by N. Attention: you need to use the deque to implement this function. 
 
 For example:
 
