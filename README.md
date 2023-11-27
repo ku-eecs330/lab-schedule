@@ -14,6 +14,7 @@ This is the github repository for publishing lab materials and assignments
 | 10/30~11/3 | 8 | Tree & Graph Traversal | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-8/Lab-8_fall23.md) |
 | 11/6~11/10 | 9 | Advanced Graph Algorithms | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-9/Lab-9_fall23.md) |
 | 11/13~11/17 | 10 | Sorting Algorithms | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-10/Lab-10_fall23.md) |
+| 11/27~12/1 | 11 | Advanced Sorting | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-11/Lab-11_fall23.md) |
 
 ## Your TA Assignemnt
 Your TA is assigned based on your lab sessions. You can find your TA at [canvas](https://canvas.ku.edu/courses/104600/groups) `People` -> `Groups`. Contacts of TAs are as follows:
