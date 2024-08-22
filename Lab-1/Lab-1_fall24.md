@@ -142,7 +142,7 @@ There are some other useful tricks when navigating on a command line:
 ```sh
 git --version
 ```
-* Share your git username with your TA. You will be invited to an git organization of EECS 330. In which you will create a repository with your name as lastname-kuid (lower case) (for example: mallojula-12345678). Your repo must be private (only you and TAs will be able to see it). Once your repo is created as 
+* Share your git username with your TA. You will be invited to an git organization of EECS 330. In which you will create a repository with your name as lastname-kuid (__lower case__) (for example: mallojula-12345678). Your repo must be private (only you and TAs will be able to see it). Once your repo is created as 
 </br><img src="pic/git_create.PNG" alt="repo create" width="300"/> </br>
 add your TA as collaborator to your repo (`Settings`->`Colaborators and teams`->`Add people`). Your TA's guthub username can be found at [frontpage](https://github.com/ku-eecs330/lab-schedule).
 

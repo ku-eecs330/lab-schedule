@@ -3,7 +3,7 @@ This is the github repository for publishing lab materials and assignments
 
 | Time  |  Labs |      Description    | Links |
 | ----- | ----- | ------------------- | --- |
-| 8/26~8/30 | 1 | Python and GitHub Setup (takehome, no grade) | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-1/Lab-1_fall24.md) |
+| 8/26~8/30 | 1 | Python and GitHub Setup (takehome, NO lab sessions) | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-1/Lab-1_fall24.md) |
 
 
 ## Your TA Assignemnt
