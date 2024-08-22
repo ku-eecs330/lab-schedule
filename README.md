@@ -7,7 +7,7 @@ This is the github repository for publishing lab materials and assignments
 
 
 ## Your TA Assignemnt
-Your TA is assigned based on the sessions that you belong to. You can locate your TA at Enroll\%Pay. Meanwhile, we are in the process of forming groups at canvas `People` -> `Groups` where you can also find your TA assignment. Contacts of TAs are as follows:
+Your TA is assigned based on the sessions that you belong to. You can locate your TA at Enroll\&Pay. Meanwhile, we are in the process of forming groups at canvas `People` -> `Groups` where you can also find your TA assignment. Contacts of TAs are as follows:
 
 - Mallojula, Prashanthi (Email: <prashanthi.mallojula@ku.edu>, Github: [Prashanthimallojula](https://github.com/Prashanthimallojula))
 - Pudota, Mary Jeevana (Email: <maryjeevanapudota@ku.edu>, Github: [pjscience46](https://github.com/pjscience46))
