@@ -1,8 +1,8 @@
 # EECS 330 Lab-1
 ## Goal: _Python setup and execution, Github setup and upload_
 
-### Due date (based on your lab time):  
-* Monday 08/30/2024  
+### Due date:  
+* Monday 08/30/2024 (for everyone)
 
 
 ### Objective

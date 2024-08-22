@@ -12,7 +12,7 @@ Your TA is assigned based on your lab sessions. You can find your TA at [canvas]
 - Mallojula, Prashanthi (Email: <prashanthi.mallojula@ku.edu>, Github: [Prashanthimallojula](https://github.com/Prashanthimallojula))
 - Pudota, Mary Jeevana (Email: <maryjeevanapudota@ku.edu>, Github: [pjscience46](https://github.com/pjscience46))
 - Shaik, Nyamtulla (Email: <nyamtulla.shaik@ku.edu>, Github: [Nyamtulla](https://github.com/Nyamtulla))
-- Gundla, Sai Rithvik (Email: <sairithvik@ku.edu>, Github: [None](https://github.com/))
+- Gundla, Sai Rithvik (Email: <sairithvik@ku.edu>, Github: [TBD](https://github.com/))
 
 
 
