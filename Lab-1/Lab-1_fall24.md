@@ -2,7 +2,7 @@
 ## Goal: _Python setup and execution, Github setup and upload_
 
 ### Due date:  
-* Monday 08/30/2024 (for everyone)
+* Wednesday 09/04/2024 (for everyone)
 
 
 ### Objective
@@ -223,8 +223,8 @@ To upload your code, in your terminal:
 
 ### Testing and Grading  
 
-You will be submitting your code via GitHub repository created for EECS330.For this Lab, once you are done with set up  and push `HelloWorld.py` onto Github repo and completes your Lab work.
+You will be submitting your code via GitHub repository created for EECS330. For this Lab, once you are done with set up and push `HelloWorld.py` onto Github repo and completes your Lab work.
 
 
 ### Submission and Deadline 
- Please submit through GitHub and grades will be posted based on completed work with out any issues.
+Please submit through GitHub and grades will be posted based on completed work with out any issues.
