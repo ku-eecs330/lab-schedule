@@ -7,7 +7,7 @@ This is the github repository for publishing lab materials and assignments.
 
 
 ## Your TA Assignemnt
-<span style="color:red">The TA assignment is finished, please refer to the following schedule. A favor I will need to ask from you is to help us complete the lab roster. Please fill in your name and GitHub ID in your corresponding session in the spreadsheet at [link](https://kansas-my.sharepoint.com/:x:/g/personal/z461y203_home_ku_edu/Ececqi7iUMVHo_G78EQPKKoBHWDzuRpHkNF_nVs4A3iD0w?e=OgfNLt). Our GTA will  invite you to join our Github org where you can build your repo as instructed in Lab 1.</span>
+<mark>The TA assignments have been finalized. Please refer to the schedule in this page. I kindly ask for your assistance in completing the lab roster. Please fill in your name and GitHub ID in the corresponding session on the spreadsheet at [link](https://kansas-my.sharepoint.com/:x:/g/personal/z461y203_home_ku_edu/Ececqi7iUMVHo_G78EQPKKoBHWDzuRpHkNF_nVs4A3iD0w?e=OgfNLt). Our GTA will invite you to join our GitHub organization, where you'll be able to create your repository as instructed in Lab 1.</mark>
 
 Your TA is assigned based on the sessions that you belong to. You can locate your TA at Enroll\&Pay. Meanwhile, we are in the process of forming groups at canvas `People` -> `Groups` where you can also find your TA assignment. Contacts of TAs are as follows:
 
