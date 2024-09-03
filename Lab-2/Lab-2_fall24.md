@@ -1,11 +1,11 @@
 
-# EECS 330 Lab-3
+# EECS 330 Lab-2
 
 
 ## Goal: _IDE, Debugging, Linked Lists_
 
 ### Due date (based on your lab time):
-- Monday 09/02/2024 (No lab due to Labor Day, please join any other lab that fixs your schedule)
+- Monday 09/02/2024 (No lab due to Labor Day, please join any other lab that fits your schedule)
   - Using the due day of the alternative lab you join.
 - Tuesday 09/03/2024
   - Due on Friday 09/06/2024 11:59 pm
