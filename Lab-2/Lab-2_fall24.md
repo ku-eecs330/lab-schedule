@@ -12,7 +12,7 @@
 - Wednesday 09/04/2024
   - Due on Saturday 09/07/2024 11:59 pm
 - Friday 09/06/2024
-  - Due on Monday 09/19/2024 11:59 pm
+  - Due on Monday 09/09/2024 11:59 pm
 
 ### A. Integrated Development Environment (IDE) - PyCharm
 
