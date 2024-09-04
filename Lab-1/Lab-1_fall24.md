@@ -168,8 +168,8 @@ You should see the current version number like `Python 3.10.XX`.
 Then create a folder for your code
 ```sh
 > cd Github/eecs330/LastName-KUID <--replace with your last name and kuid. This should be the folder of your repo.
-> mkdir Lab-2
-> cd Lab-2
+> mkdir Lab-1
+> cd Lab-1
 ```
 
 * In this newly opened directory, create a file `HelloWorld.py` with linux editor like `nano` (or you can just open GUI editor and save it to target folder). Type the following lines in your `.py` file.
@@ -223,7 +223,7 @@ To upload your code, in your terminal:
 
 ### Testing and Grading  
 
-You will be submitting your code via GitHub repository created for EECS330. For this Lab, once you are done with set up and push `HelloWorld.py` onto Github repo and completes your Lab work.
+You will be submitting your code via GitHub repository created for EECS330. For this Lab, once you are done with set up and push `HelloWorld.py` onto Github repo under folder `Lab-1`.
 
 
 ### Submission and Deadline 
