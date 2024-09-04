@@ -2,7 +2,7 @@
 # EECS 330 Lab-2
 
 
-## Goal: _IDE installation, coding, and Debugging_
+## Goal: _IDE Installation, Coding, and Debugging_
 
 ### Due date (based on your lab time):
 - Monday 09/02/2024 (No lab due to Labor Day, please join any other lab that fits your schedule)

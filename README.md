@@ -4,7 +4,7 @@ This is the github repository for publishing lab materials and assignments.
 | Time  |  Labs |      Description    | Links |
 | ----- | ----- | ------------------- | --- |
 | 8/26~8/30 | 1 | Python and GitHub Setup (takehome, NO lab sessions) | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-1/Lab-1_fall24.md) |
-| 9/2~9/6 | 2 | IDE, Debugging, Testing, SLList | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-2/Lab-2_fall24.md) |
+| 9/2~9/6 | 2 | IDE Installation, Coding, and Debugging | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-2/Lab-2_fall24.md) |
 
 
 ## Your TA Assignemnt
