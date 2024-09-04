@@ -2,7 +2,7 @@
 ## Goal: _Python setup and execution, Github setup and upload_
 
 ### Due date:  
-* Wednesday 09/04/2024 (for everyone)
+* Saturday 09/07/2024 (for everyone)
 
 
 ### Objective

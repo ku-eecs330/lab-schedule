@@ -8,7 +8,7 @@
 - Monday 09/02/2024 (No lab due to Labor Day, please join any other lab that fits your schedule)
   - Using the due day of the alternative lab you join.
 - Tuesday 09/03/2024
-  - Due on Friday 09/06/2024 11:59 pm
+  - Due on Saturday 09/07/2024 11:59 pm
 - Wednesday 09/04/2024
   - Due on Saturday 09/07/2024 11:59 pm
 - Friday 09/06/2024
