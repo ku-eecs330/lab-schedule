@@ -6,9 +6,11 @@ This is the github repository for publishing lab materials and assignments.
 | 8/26~8/30 | 1 | Python and GitHub Setup (takehome, NO lab sessions) | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-1/Lab-1_fall24.md) |
 | 9/2~9/6 | 2 | IDE Installation, Coding, and Debugging | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-2/Lab-2_fall24.md) |
 
+## Attention
+<mark>If you put the submission in the 1st week under the folder `Lab-2` due to the incorrect instruction, please kindly change the folder name to `Lab-1`.</mark>
 
 ## Your TA Assignemnt
-<mark>The TA assignments have been finalized. Please refer to the schedule in this page. I kindly ask for your assistance in completing the lab roster. Please fill in your name and GitHub ID in the corresponding session on the spreadsheet at [link](https://kansas-my.sharepoint.com/:x:/g/personal/z461y203_home_ku_edu/Ececqi7iUMVHo_G78EQPKKoBHWDzuRpHkNF_nVs4A3iD0w?e=OgfNLt). Our GTA will invite you to join our GitHub organization, where you'll be able to create your repository as instructed in Lab 1.</mark>
+The TA assignments have been finalized. Please refer to the schedule in this page. I kindly ask for your assistance in completing the lab roster. Please fill in your name and GitHub ID in the corresponding session on the spreadsheet at [link](https://kansas-my.sharepoint.com/:x:/g/personal/z461y203_home_ku_edu/Ececqi7iUMVHo_G78EQPKKoBHWDzuRpHkNF_nVs4A3iD0w?e=OgfNLt). Our GTA will invite you to join our GitHub organization, where you'll be able to create your repository as instructed in Lab 1.
 
 Your TA is assigned based on the sessions that you belong to. You can locate your TA at Enroll\&Pay. Meanwhile, we are in the process of forming groups at canvas `People` -> `Groups` where you can also find your TA assignment. Contacts of TAs are as follows:
 
