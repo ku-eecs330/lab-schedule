@@ -2,7 +2,7 @@
 # EECS 330 Lab-2
 
 
-## Goal: _IDE, Debugging, Linked Lists_
+## Goal: _IDE installation, coding, and Debugging_
 
 ### Due date (based on your lab time):
 - Monday 09/02/2024 (No lab due to Labor Day, please join any other lab that fits your schedule)
@@ -33,7 +33,7 @@ PyCharm is an integrated development environment (IDE) used for writing and mana
 Quick setup: https://www.jetbrains.com/pycharm/guide/tutorials/getting-started-pycharm/
 
 
-**2.1. Creating/opening a Python File:**
+**2.1. Creating a Python File and Choosing the Virtual Environment:**
 
 - Open the PyCharm application.
 
@@ -59,7 +59,6 @@ Quick setup: https://www.jetbrains.com/pycharm/guide/tutorials/getting-started-p
 
 
 **2.2. Coding**
-
 In the code editor, you can start writing your Python code. You can add functions, classes, variables, and any other code constructs as needed.
 
 **3. Debugging**
@@ -105,81 +104,57 @@ In the code editor, you can start writing your Python code. You can add function
 <img src="pic/pic5.png" alt="repo create" width="600"/>
 
 
-### B. Implementation of linked list methods
+### B. Debuging Sample Code in PyCharm
+Let's run an example of using PyCharm debugging tool. Please use the code example and go through the steps in the tutorial at 
 
-Given the following sample coes:
-```python
-class SLList:
-    class IntNode:
-        def __init__(self, item, next_node):
-            self.item = item # int
-            self.next = next_node # IntNode
-            
-    def __init__(self):
-        self.first = None # initialize an empty list
-
-    def addFirst(self, item):
-        self.first = self.IntNode(item, self.first)
-```
+<https://www.jetbrains.com/help/pycharm/part-1-debugging-python-code.html>
 
 
-
-**1.1 Insert an Item (25 pts)**
-
-Implement method `SLList.insert()` which takes in an integer `item` and an integer `position`. It inserts `item` at the given `position`. If `position` is after the end of the list, insert the new node at the end. For example, if the SLList is 5 → 6 → 2, insert (10, 1) results in 5 → 10 → 6 → 2, and if the SLList is 5 → 6 → 2, insert (10, 7) results in 5 → 6 → 2 → 10. Additionally, for this problem assume that position is a non-negative integer.
 
 ```python
-def insert (self, item, position):
-```
+import math
+
+class Solver:
+
+    def demo(self, a, b, c):
+        d = b ** 2 - 4 * a * c
+        if d > 0:
+            disc = math.sqrt(d)
+            root1 = (-b + disc) / (2 * a)
+            root2 = (-b - disc) / (2 * a)
+            return root1, root2
+        elif d == 0:
+            return -b / (2 * a)
+        else:
+            return "This equation has no roots"
 
 
-**1.2 Reverse the List (25 pts)**
-
-Add another method to the class `SLList.reverse()` that reverses the elements. Do this using the existing `IntNode` objects (you should not use new).
-
-```python
-def reverse(self):
-```
-
-**1.3 Replicate the List (25 pts)**
-
-Write a non-destructive method `SLList.replicate()` that replaces the `item` at `position` with `item` copies of itself. For example, replicate (3 → 2 → 1]) would return 3 → 3 → 3 → 2 → 2 → 1. For this question assume that all elements of the array are positive.  ("non-destructive" means that you will create a new linked list without changing the old one).
-
-```python
-def replicate(self):
-```
-**1.4 Write the Testing Case (25 pts)**
-
-Create and run tests on your 1.1, 1.2, 1.3 to ensure its correctness. For example:
-```python
 if __name__ == '__main__':
-  L = SLList()
-  L.addFirst(15)
-  L.addFirst(10)
-  L.addFirst(5)
-  L.reverse()
+    solver = Solver()
 
-  L_expect = SLList()
-  L_expect.addFirst(5)
-  L_expect.addFirst(10)
-  L_expect.addFirst(15)	
-
-  if L.equals(L_expect):
-    print("Two lists are equal, tests passed")
-  else:
-    print("Two lists are not equal, tests failed")
+    while True:
+        a = int(input("a: "))
+        b = int(input("b: "))
+        c = int(input("c: "))
+        result = solver.demo(a, b, c)
+        print(result)
 ```
 
-You can see that you will need an `SLList.equals` method to evaluate if two lists are the same. Please write the function to compare two `SLList` objects in terms of their values.
-```python
-def equals(self, anotherList):
-```
+Basically, the class and method in the sample aim to solve the quadratic equation in mathematics. Three variable `a`, `b`, and `c` will be required from user input. Then the code will calculate the following quadratic formula to solve `x`:
 
-**1.4 (Extra) Another Implementation (10 pts)** 
+<p align="center">
+<img src="pic/pic6.png" alt="repo create" width="150"/>
+</p>
 
-If you wrote reverse iteratively, write a second version that uses recursion (you may need a helper method). If you wrote it recursively, write it iteratively.
+Using the debugging tool in PyCharm, you are able to inspect the step-wise results to locate the issues in your code. Please run the debugging with the following two sets of input:
 
+1. `a = 1; b = 4; c = 1`
+2. `a = 2; b = 4; c = 2`
+3. `a = 3; b = 4; c = 2`
 
-**Testing and Grading:** You should submit your code via a GitHub repository created for EECS 330. For this lab, create a folder named "Lab-3" and push all your `.py` files into that folder on the GitHub repository to complete your lab work. 
+For submission, please take a screenshot for the inline debugging of each input, showing the step-wise variable values.
+
+**Testing and Grading:** You should submit your screenshots via a GitHub repository created for EECS 330. For this lab, create a folder named "Lab-2" and push your image files into that folder on the GitHub repository to complete your lab work. 
+
 
 **Submission and Deadline:** Please submit through GitHub and grades will be posted based on completed work without any issues.
