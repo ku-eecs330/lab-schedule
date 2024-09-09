@@ -6,13 +6,13 @@
 
 ### Due date (based on your lab time):
 - Monday 09/09/2024
-  - Due on Thursday 09/12/2024 11:59 pm
-- Tuesday 09/10/2024
   - Due on Friday 09/13/2024 11:59 pm
-- Wednesday 09/11/2024
+- Tuesday 09/10/2024
   - Due on Saturday 09/14/2024 11:59 pm
+- Wednesday 09/11/2024
+  - Due on Sunday 09/15/2024 11:59 pm
 - Friday 09/13/2024
-  - Due on Monday 09/16/2024 11:59 pm
+  - Due on Tuesday 09/17/2024 11:59 pm
 
 ### Implementation of linked list methods
 

@@ -40,7 +40,7 @@ Each lab session is scheduled and instructed as follows:
 - Friday 02:00-03:50p.m. (**GTA**: Pudota, Mary Jeevana)
 
 ## Due Dates
-Due dates of each lab assignment will be clearly indicated at the beginning of each lab document. Basically, you will have **3 days** after your lab date to finish all the submission. For example: if your lab is every Monday, you will have Tuesday - Thursday to finish your assignment. The due time will be 11:59pm CDT on every Thursday.
+Due dates of each lab assignment will be clearly indicated at the beginning of each lab document. Basically, you will have **4 days** after your lab date to finish all the submission. For example: if your lab is every Monday, you will have Tuesday - Friday to finish your assignment. The due time will be 11:59pm CDT on every Friday.
 
 
 ## Policy
