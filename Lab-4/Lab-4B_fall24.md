@@ -1,5 +1,5 @@
 
-# EECS 330 Lab-4 (Part B)/Project-1 
+# EECS 330 Lab-4 (Part B)
 
 #### This is a 2-week lab including part A and part B.
 
@@ -156,7 +156,7 @@ print(OffByN(char1, char2, N)) #Prints True
 Please submit your lab work by pushing your code and results to a GitHub repository specifically created for the EECS 330 course. Follow the steps below to complete your submission:
 
 1. **Create a Folder**: In your EECS 330 GitHub repository, create a new folder named `Lab-4`.
-2. **Add Your Work**: Place all relevant `.ipynb` notebook files that contain your code and results into the `Lab-4` folder.
+2. **Add Your Work**: Place all relevant `.py` and `.ipynb` files that contain your code and results into the `Lab-4` folder.
 3. **Push to GitHub**: Ensure that you commit and push the `Lab-4` folder to your GitHub repository.
 
 By following these steps, your lab work will be considered complete and submitted. Make sure all your code runs successfully, and the results are clearly documented in the notebooks.
