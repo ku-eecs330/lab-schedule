@@ -11,9 +11,9 @@
 - Tuesday 09/17/2024
   - Due on Saturday 09/28/2024 11:59 pm
 - Wednesday 09/18/2024
-  - Due on Sunday 29/23/2023 11:59 pm
-- Friday 09/20/2023
-  - Due on Tuesday 10/1/2024 11:59 pm
+  - Due on Sunday 09/29/2024 11:59 pm
+- Friday 09/20/2024
+  - Due on Tuesday 10/01/2024 11:59 pm
 
 ##### NOTE: Import the Deque class from the previous Lab 4. (import Deque from Lab4)
 
