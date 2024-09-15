@@ -6,7 +6,6 @@ This is the github repository for publishing lab materials and assignments.
 | 8/26~8/30 | 1 | Python and GitHub Setup (takehome, NO lab sessions) | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-1/Lab-1_fall24.md) |
 | 9/2~9/6 | 2 | IDE Installation, Coding, and Debugging | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-2/Lab-2_fall24.md) |
 | 9/9~9/13 | 3 | Linked List | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-3/Lab-3_fall24.md) |
-
 | 9/16~9/20 | 4 | Part A: Deque | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-4/Lab-4A_fall24.md) |
 | 9/23~9/27 | 5 | Part B: Deque | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-4/Lab-4B_fall24.md) |
 <!---
