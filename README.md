@@ -8,8 +8,8 @@ This is the github repository for publishing lab materials and assignments.
 | 9/9~9/13 | 3 | Linked List | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-3/Lab-3_fall24.md) |
 | 9/16~9/20 | 4 | Part A: Deque | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-4/Lab-4A_fall24.md) |
 | 9/23~9/27 | 5 | Part B: Deque | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-4/Lab-4B_fall24.md) |
+| 9/30~10/4 | 5 | Disjoint Set | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-5/Lab-5_fall24.md) |
 <!---
-| 9/25~9/29 | 5 | Disjoint Set | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-5/Lab-5_fall23.md) |
 | 10/2~10/6 | 6 | Binary Search Tree | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-6/Lab-6_fall23.md) |
 | 10/23~10/27 | 7 | Hash Map | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-7/Lab-7_fall23.md) |
 | 10/30~11/3 | 8 | Tree & Graph Traversal | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-8/Lab-8_fall23.md) |
@@ -18,8 +18,10 @@ This is the github repository for publishing lab materials and assignments.
 | 11/27~12/1 | 11 | Advanced Sorting | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-11/Lab-11_fall23.md) |
 -->
 
+<!---
 ## Attention
 <mark>If you put the submission in the 1st week under the folder `Lab-2` due to the incorrect instruction, please kindly change the folder name to `Lab-1`.</mark>
+-->
 
 ## Your TA Assignemnt
 The TA assignments have been finalized. Please refer to the schedule in this page. I kindly ask for your assistance in completing the lab roster. Please fill in your name and GitHub ID in the corresponding session on the spreadsheet at [link](https://kansas-my.sharepoint.com/:x:/g/personal/z461y203_home_ku_edu/Ececqi7iUMVHo_G78EQPKKoBHWDzuRpHkNF_nVs4A3iD0w?e=OgfNLt). Our GTA will invite you to join our GitHub organization, where you'll be able to create your repository as instructed in Lab 1.
