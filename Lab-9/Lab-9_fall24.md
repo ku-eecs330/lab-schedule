@@ -5,13 +5,13 @@
 
 ### Due date (based on your lab time):
 - Monday 11/04/2024
-  - Due on Thursday 11/07/2024 11:59 pm
+  - Due on Friday 11/8/2024 11:59 pm
 - Tuesday 11/05/2024
-  - Due on Friday 11/08/2024 11:59 pm
+  - Due on Saturday 11/9/2024 11:59 pm
 - Wednesday 11/06/2024
-  - Due on Saturday 11/09/2024 11:59 pm
+  - Due on Sunday 11/10/2024 11:59 pm
 - Friday 11/08/2024
-  - Due on Monday 11/11/2024 11:59 pm
+  - Due on Tuesday 11/12/2024 11:59 pm
 
 
 ### A. Implementation of Graph Path Finding and Analysis.
@@ -151,7 +151,14 @@ print(f"Is the large graph bipartite? {'Yes' if is_bipartite else 'No'}")
 
 ```
 
-**Testing and Grading:** You should submit your code via a GitHub repository created for EECS 330.
-For this lab, create a folder named "Lab-8" and push all your `.py` files into that folder on the GitHub repository to complete your lab work. 
+**Testing and Grading:** 
 
-**Submission and Deadline:** Please submit through GitHub and grades will be posted based on completed work without any issues.
+Please submit your lab work by pushing your code and results to a GitHub repository specifically created for the EECS 330 course. Follow the steps below to complete your submission:
+
+1. **Create a Folder**: In your EECS 330 GitHub repository, create a new folder named `Lab-9`.
+2. **Add Your Work**: Place all relevant `.py` and `.ipynb` files that contain your code and results into the `Lab-9` folder.
+3. **Push to GitHub**: Ensure that you commit and push the `Lab-9` folder to your GitHub repository.
+
+By following these steps, your lab work will be considered complete and submitted. Make sure all your code runs successfully, and the results are clearly documented in the notebooks.
+
+**Submission and Deadline:** Please submit your work through GitHub by the specified deadline. Your grade will be based on the completeness and accuracy of the work submitted. Ensure that all code is functional and results are clearly presented. Grades will reflect the work as it appears in your repository.
