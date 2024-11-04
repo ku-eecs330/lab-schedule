@@ -57,9 +57,10 @@ def count_connected_components(self):-> int
     pass
 ```
 
-**A.2 Check if given grpah is Bipartite**
+**A.3 Check if given grpah is Bipartite**
 
-A Bipartite graph is where the set of vertices can be divided into two disjoint sets such that no two vertices within the same set are adjacent. That is, if color the graph with two colors such that no two adjacent vertices share the same color. For a disconnected graph, you can check if each component is bipartite separately. If all connected components of the graph are bipartite, then the whole graph is bipartite.
+In a bipartite graph, the set of vertices can be divided into two disjoint subsets such that no two vertices within the same subset are adjacent (linked). This can be visualized by assigning two different colors to the vertices, ensuring that no two adjacent vertices share the same color.
+For disconnected graphs, it's possible to check each connected component individually for bipartiteness. If all connected components of a disconnected graph are bipartite, then the entire graph can be considered bipartite.
 
 Check if the given graph is Bipartite. Please use your BFS implementation to implement this. Your should return True or False
 
