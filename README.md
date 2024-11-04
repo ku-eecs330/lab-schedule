@@ -7,13 +7,13 @@ This is the github repository for publishing lab materials and assignments.
 | 9/2~9/6 | 2 | IDE Installation, Coding, and Debugging | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-2/Lab-2_fall24.md) |
 | 9/9~9/13 | 3 | Linked List | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-3/Lab-3_fall24.md) |
 | 9/16~9/20 | 4 | Part A: Deque | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-4/Lab-4A_fall24.md) |
-| 9/23~9/27 | 5 | Part B: Deque | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-4/Lab-4B_fall24.md) |
+| 9/23~9/27 | 4 | Part B: Deque | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-4/Lab-4B_fall24.md) |
 | 9/30~10/4 | 5 | Disjoint Set | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-5/Lab-5_fall24.md) |
 | 10/7~10/11 | 6 | Binary Search Tree | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-6/Lab-6_fall24.md) |
 | 10/21~10/25 | 7 | Hash Map | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-7/Lab-7_fall24.md) |
 | 10/30~11/3 | 8 | Tree & Graph Traversal | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-8/Lab-8_fall24.md) |
+| 11/6~11/10 | 9 | Advanced Graph Algorithms | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-9/Lab-9_fall24.md) |
 <!---
-| 11/6~11/10 | 9 | Advanced Graph Algorithms | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-9/Lab-9_fall23.md) |
 | 11/13~11/17 | 10 | Sorting Algorithms | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-10/Lab-10_fall23.md) |
 | 11/27~12/1 | 11 | Advanced Sorting | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-11/Lab-11_fall23.md) |
 -->
