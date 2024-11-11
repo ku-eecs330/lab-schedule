@@ -134,11 +134,11 @@ graph.add_edge(2, 5)
 
 bfs_path, bfs_distance = graph.bfs_shortest_path(0, 5)
 dfs_path, dfs_distance = graph.dfs_shortest_path(0, 5)
-print(f"BFS Shortest Path from 0 to 3: {bfs_path}")
-print(f"BFS Shortest distance from 0 to 3: {bfs_distance}")
+print(f"BFS Shortest Path from 0 to 5: {bfs_path}")
+print(f"BFS Shortest distance from 0 to 5: {bfs_distance}")
 
-print(f"DFS Shortest Path from 0 to 3: {dfs_path}")
-print(f"DFS Shortest distance from 0 to 3: {dfs_distance}")
+print(f"DFS Shortest Path from 0 to 5: {dfs_path}")
+print(f"DFS Shortest distance from 0 to 5: {dfs_distance}")
 
 ### Test Case 2: Number of Connected Components
 
