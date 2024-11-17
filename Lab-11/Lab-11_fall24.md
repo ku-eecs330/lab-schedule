@@ -1,4 +1,4 @@
-# EECS 330 Lab-10 (Sorting Algorithms)
+# EECS 330 Lab-11 (Sorting Algorithms)
 
 
 ## Goal: Implementation of Sorting Algorithms
