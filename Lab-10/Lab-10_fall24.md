@@ -84,7 +84,7 @@ class Graph:
             print(f"{result[i]} - {i} \t {self.graph[i][result[i]]}")
 ```
 
-For e.g. For the following graph:
+For the following graph:
 
 ```Python
 
