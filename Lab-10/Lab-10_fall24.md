@@ -195,6 +195,7 @@ graph.prim()
 # Find and print the Kruskal's Minimum Spanning Tree (MST).
 graph.kruskal()
 
+# Example MST has the starting vertex as 0, but other vertex can also be chosen as the starting point. As the comsequence, different sets of edges may be involved in final MST.
 ```
 
 **Testing and Grading:** 
