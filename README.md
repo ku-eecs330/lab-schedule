@@ -15,9 +15,7 @@ This is the github repository for publishing lab materials and assignments.
 | 11/4~11/8 | 9 | Graph Traversals and Path Finding | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-9/Lab-9_fall24.md) |
 | 11/11~11/15 | 10 | Advanced Graph Algorithms | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-10/Lab-10_fall24.md) |
 | 11/18~11/22 | 11 | Sorting Algorithms | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-11/Lab-11_fall24.md) |
-<!---
-| 11/27~12/1 | 12 | Advanced Sorting | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-11/Lab-11_fall23.md) |
--->
+| 12/2~12/6 | 12 | Advanced Sorting | [link](https://github.com/ku-eecs330/lab-schedule/blob/main/Lab-12/Lab-12_fall24.md) |
 
 <!---
 ## Attention
